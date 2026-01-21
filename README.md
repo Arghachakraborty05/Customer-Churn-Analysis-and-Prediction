@@ -137,6 +137,13 @@ The model generates:
 
 ---
 
+## Project Link
+🔗 **Google Colab Notebook:**  
+https://colab.research.google.com/drive/1eH96wxxNujQN6inrHvI3iWlSSN-Yh1Vq?usp=sharing
+
+---
+
+
 ## Business Use Case
 
 In real-world applications, the model functions as a **churn risk scoring system**:

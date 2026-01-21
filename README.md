@@ -139,7 +139,7 @@ The model generates:
 
 ## Project Link
 🔗 **Google Colab Notebook:**  
-https://colab.research.google.com/drive/1eH96wxxNujQN6inrHvI3iWlSSN-Yh1Vq?usp=sharing
+https://colab.research.google.com/drive/13vXLCZX4rR_1HHwt2hy4Fp3BYfCQ_Qyy?usp=sharing
 
 ---
 
